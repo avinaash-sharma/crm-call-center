@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Agent",
+    "self": true,
+    "message": "Hello, How can I help you?"
+  },
+  {
+    "name": "Customer",
+    "self": false,
+    "message": "Hi, I wanted to check my details."
+  },
+  {
+    "name": "Agent",
+    "self": true,
+    "message": "hey this is yet agian multi line text which should grow in the chat bubble and to show case its working fine."
+  },
+  {
+    "name": "Customer",
+    "self": false,
+    "message": "It worked!"
+  }
+]
