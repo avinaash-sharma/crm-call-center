@@ -3,7 +3,6 @@ import {
     chakra,
     FormControl,
     FormLabel,
-    HTMLChakraProps,
     Input,
     Stack,
   } from '@chakra-ui/react'

@@ -179,7 +179,7 @@ export default function NavBar() {
           </Flex>
         </Flex>
         <Box as="main" p="2" w={"full"}>
-          <React.StrictMode>
+          
             {showCallScreen && (
               <Draggable {...dragHandlers}>
                 <div
@@ -220,7 +220,7 @@ export default function NavBar() {
               </Container>
             )}
             
-          </React.StrictMode>
+          
           <CallScreen />
         </Box>
       </Box>

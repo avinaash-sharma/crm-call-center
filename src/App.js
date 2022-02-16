@@ -3,7 +3,7 @@ import {
   ChakraProvider,
 } from '@chakra-ui/react';
 import customTheme from './theme';
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Login from './components/screens/Login';
 import WelcomeScreen from './components/screens/WelcomeScreen';
 
